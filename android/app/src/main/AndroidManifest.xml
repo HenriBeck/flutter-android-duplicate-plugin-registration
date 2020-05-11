@@ -6,7 +6,7 @@
          additional functionality it is fine to subclass or reimplement
          FlutterApplication and put your custom class here. -->
     <application
-        android:name="io.flutter.app.FlutterApplication"
+        android:name="com.example.flutter_android_duplicate_plugin_registration.Application"
         android:label="flutter_android_duplicate_plugin_registration"
         android:icon="@mipmap/ic_launcher">
         <activity
